@@ -1,0 +1,11 @@
+# Build files
+*.o
+a.out
+compiler
+
+# Backup files
+*.asm~
+
+# Editor files
+*.swp
+*.tmp
